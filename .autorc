@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Srinath-R1",
+  "repo": "container-y0ii5ig",
+  "name": "Srinath-R1",
+  "email": "srinathramesh2018@gmail.com",
+}
